@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "784872694019",
+    "firebase_url": "https://newtalk-71584.firebaseio.com",
+    "project_id": "newtalk-71584",
+    "storage_bucket": "newtalk-71584.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784872694019:android:105f7339e2c8362a",
+        "android_client_info": {
+          "package_name": "com.example.chattingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784872694019-4mfv1kcoulsa08h3qg4alo55mbs1mhhi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chattingapp",
+            "certificate_hash": "e4a444a7538f01fd8b605b64afd63caad7ed6ef1"
+          }
+        },
+        {
+          "client_id": "784872694019-5ib9cctj3samcn4l5sqa0dn66msggh47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrpISh0_F2zdp3zGWhYzrL6EBwQcdsCm0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784872694019-5ib9cctj3samcn4l5sqa0dn66msggh47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
